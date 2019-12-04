@@ -1,2 +1,0 @@
-# ta-labs
-TA 
